@@ -1,0 +1,15 @@
+[submodule "typescript-trial"]
+	path = typescript-trial
+	url = git@github.com:leo-shopify/typescript-trial.git
+[submodule "interactivity"]
+	path = interactivity
+	url = git@github.com:leo-shopify/interactivity.git
+[submodule "fed-structure"]
+	path = fed-structure
+	url = git@github.com:leo-shopify/fed-structure.git
+[submodule "I-will-have-the-thick-crust-deja-vu"]
+	path = I-will-have-the-thick-crust-deja-vu
+	url = git@github.com:leo-shopify/I-will-have-the-thick-crust-deja-vu.git
+[submodule "browser-testing"]
+	path = browser-testing
+	url = git@github.com:leo-shopify/browser-testing.git
